@@ -1,0 +1,103 @@
+body {
+    padding: 0;
+    overflow-x: hidden;
+}
+a {
+    text-decoration: none;
+    font: inherit;
+    color: inherit;
+}
+a:hover {
+    color: white;
+    transform: scale(1.01);
+}
+h2 {
+    font-family: 'Poppins', 'sans serif';
+    font-size: 40px;
+    font-weight: bold;
+}
+.logo {
+    font-size: 34px;
+    font-weight: 800;
+    margin: 0 10%;
+    color: #fff;
+}
+
+.bg-teal-light-min-1 {
+    background-color: #d5feff;
+}
+.bg-teal-light {
+    background-color: #AEFEFF;
+}
+.bg-teal-light-2 {
+    background-color: #4FBDBA;
+}
+.bg-teal-light-3 {
+    background-color: #35858B;
+}
+.bg-teal {
+    background-color: teal;
+}
+.bg-teal-dark {
+    background-color: #072227;
+}
+.bg-grey {
+    background-color: grey;
+}
+
+.light {
+    color: white;
+}
+.teal-light {
+    color: #AEFEFF;
+}
+.teal-light-2 {
+    color: #4FBDBA;
+}
+.teal-light-3 {
+    color: #35858B;
+}
+.teal {
+    color: teal;
+}
+.teal-dark {
+    color: #072227;
+}
+.grey {
+    color: grey;
+}
+
+.fs-10 {
+    font-size: 10px;
+}
+.fs-20 {
+    font-size: 20px;
+}
+.fs-30 {
+    font-size: 30px;
+}
+.fs-40 {
+    font-size: 40px;
+}
+.fs-50 {
+    font-size: 50px;
+}
+.fs-60 {
+    font-size: 60px;
+}
+.fs-70 {
+    font-size: 70px;
+}
+.fs-80 {
+    font-size: 80px;
+}
+.fs-90 {
+    font-size: 90px;
+}
+.fs-100 {
+    font-size: 100px;
+}
+
+/* * {
+    border: .4px solid royalblue;
+} */

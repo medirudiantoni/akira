@@ -1,0 +1,13 @@
+.card {
+    transition: 200ms;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.portfolio .card img {
+    max-height: 310px;
+}
+
+.clients img {
+    width: 12%;
+}
