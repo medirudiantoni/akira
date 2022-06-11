@@ -1,0 +1,29 @@
+.card-img-top {
+    width: 100%;
+    height: 260px;
+    background-size: cover;
+}
+
+.portfolio .card-img-top-1 {
+    background-image: url('assets/img/projects/101018ef-d028-49ce-b037-39df31b628a1.jpg');
+}
+
+.portfolio .card-img-top-2 {
+    background-image: url('assets/img/projects/Architecture\ Web\ Exploration.jpg');
+}
+.portfolio .card-img-top-3 {
+    background-image: url('assets/img/projects/bb008f2d-3e9b-4069-b821-05763da2b5d3.jpg');
+}
+.portfolio .card-img-top-4 {
+    background-image: url('assets/img/projects/Cuplikan\ layar\ 2022-06-02\ 062144.png');
+}
+.portfolio .card-img-top-5 {
+    background-image: url('assets/img/projects/Cuplikan\ layar\ 2022-06-02\ 062450.png');
+}
+.portfolio .card-img-top-6 {
+    background-image: url('assets/img/projects/r-architecture-2gDwlIim3Uw-unsplash.jpg');
+}
+
+.clients .col-2 img {
+    width: 60%;
+}
